@@ -28,7 +28,7 @@ brew install cmake glew glfw glm
 ## Building the Project
 1. Navigate to the project directory:
    ```bash
-   cd /home/dev/documents/UnP/checker-game-a3 Oficioal
+   cd /home/dev/documents/UnP/checker-game-a3
    ```
 
 2. Create a build directory:
